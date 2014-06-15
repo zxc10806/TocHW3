@@ -15,7 +15,6 @@ public class TocHw3{
                                                 String area = new String(args[1]);
                                                 String loc = new String(args[2]);
                                                 int year = Integer.valueOf(args[3]);
-                                                System.out.println(area+","+loc+","+year);
                                                 HttpURLConnection request = (HttpURLConnection) url.openConnection();
                                                 request.setRequestProperty("Accept-Charset", "UTF-8");
                                                 request.connect();
