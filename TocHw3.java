@@ -3,8 +3,6 @@ import java.net.*;
 import java.io.*;
 public class TocHw3{
                 JSONObject test;
-                //arg[0]:url
-                //arg[1]¶mÂ//arg[2]:¤g¦a°Ϭq¦ì©Ϋﺕ«°Ϫù    //arg[3]:¥æ¦~¤ë
                 public static  void main(String [] args)
                 {
                                 try{
